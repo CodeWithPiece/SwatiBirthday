@@ -3,7 +3,7 @@ window.addEventListener("load", () => {
   Swal.fire({
     title:
       "Let the music be the soundtrack of this moment, as love fills the air.",
-    imageUrl: "../img/heart.svg",
+    imageUrl: "/img/heart.svg",
     imageWidth: 150,
     imageHeight: 150,
     imageAlt: "Custom icon",
